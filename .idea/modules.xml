@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/summer_practis_prodoctorov.iml" filepath="$PROJECT_DIR$/summer_practis_prodoctorov.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/summer_practis_prodoctorov_android.iml" filepath="$PROJECT_DIR$/android/summer_practis_prodoctorov_android.iml" />
+    </modules>
+  </component>
+</project>
